@@ -3,7 +3,7 @@ attrs==18.1.0
 autobahn==18.6.1
 Automat==0.7.0
 beautifulsoup4==4.6.0
-bleach==2.1.4
+bleach==3.3.0
 boto3==1.9.57
 botocore==1.12.116
 boxsdk==1.5.5
